@@ -6,7 +6,8 @@ function HeroSection() {
   const navigate = useNavigate(); 
 
   const handleJoinClick = () => {
-    navigate('/services');
+  document.body.classList.add('fade-out');
+  setTimeout(() => navigate('/services'), 300);
   };
 
   return (
