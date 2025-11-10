@@ -39,7 +39,7 @@ function Contact() {
       <Navbar />
       <section className="contact-section">
         <h1>Get in Touch</h1>
-        <p>We’d love to hear from you! Whether it’s feedback, partnership, or curiosity — reach out.</p>
+        <p>We’d love to hear from you! Whether it’s feedback, partnership, or curiosity, reach out.</p>
 
         <form onSubmit={handleSubmit} className="contact-form">
           <input

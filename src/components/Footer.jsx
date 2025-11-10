@@ -4,7 +4,7 @@ import './Footer.css';
 function Footer() {
   return (
     <footer className="footer">
-      <p>© {new Date().getFullYear()} FundaNami — Learning through Connection.</p>
+      <p>© {new Date().getFullYear()} FundaNami, Learning through Connection.</p>
     </footer>
   );
 }

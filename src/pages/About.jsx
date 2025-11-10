@@ -12,11 +12,11 @@ function About() {
         <div className="about-content">
           <h1>About FundaNami</h1>
           <p>
-            FundaNami was born from a simple idea — what if learning didn’t stop at the classroom door? 
+            FundaNami was born from a simple idea, what if learning didn’t stop at the classroom door? 
             We believe that every student has something to teach and something to learn.
           </p>
           <p>
-            Our platform connects peers through skill-sharing — from coding and cooking to DJing and design. 
+            Our platform connects peers through skill-sharing, from coding and cooking to DJing and design. 
             It’s a community that values access, collaboration, and empowerment.
           </p>
           <blockquote>
